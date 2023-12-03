@@ -1,0 +1,11 @@
+flask
+flask-login
+flask-sqlalchemy
+SQLAlchemy
+StrEnum
+websockets
+argparse
+psycopg2-binary
+werkzeug
+alembic
+python-dotenv
