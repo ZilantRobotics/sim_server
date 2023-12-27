@@ -10,3 +10,8 @@ mode, please execute the following command
 
 Default configuration options do match those in worker, so ideally you should just execute this command first,
 then the one from the worker repo and got yourself a working simulator setup.
+
+## System requirements
+Python: 3.9
+OS: Ubuntu 22.04
+CPU: AMD FX 8300 or better, or comparable ARM64 processor
